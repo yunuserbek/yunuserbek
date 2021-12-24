@@ -1,4 +1,4 @@
-google-site-verification: googlece517a9b31412711.html
+
 <h1> Hello! 👋 I am Yunus Emre Erbek </h1> 
 <h3> Android Developer </h3>
 
