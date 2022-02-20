@@ -14,7 +14,7 @@
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-A4373A.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Matlab" src="https://img.shields.io/badge/-MATLAB-0099E5"></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
