@@ -9,6 +9,7 @@
 - 📫 Contact me **yunus_erbek@windowslive.com**
 
 <h1></h1> 
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
