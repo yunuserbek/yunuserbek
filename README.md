@@ -36,7 +36,7 @@
     /> </a
   >
 <a href="https://developer.android.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303175/android-logo.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
