@@ -26,7 +26,6 @@
       height="40"
     /> </a
   >
- 
 </p>
     <img
       src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
@@ -36,9 +35,7 @@
     /> </a
   >
 <a href="https://developer.android.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303175/android-logo.svg" alt="linux" width="40" height="40"/> </a>
-
 </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yunus-emre-erbek/" target="blank"
