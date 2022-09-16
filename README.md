@@ -53,9 +53,7 @@
     ><img
       align="center"
       src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
-      alt="java"
-      width="40"
-      height="40"
+   
   /></a>
 </p>
 
