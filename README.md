@@ -26,14 +26,7 @@
       height="40"
     /> </a
   >
- <a href="https://www.hackerrank.com/yunus_erbek" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png"
-      alt="Yunuserbek"
-      height="35"
-      width="35"
-  /></a>
+ 
 </p>
     <img
       src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
@@ -53,6 +46,14 @@
       align="center"
       src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
       alt="yunuserbek"
+      height="35"
+      width="35"
+  /></a>
+  <a href="https://www.hackerrank.com/yunus_erbek" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png"
+      alt="Yunuserbek"
       height="35"
       width="35"
   /></a>
