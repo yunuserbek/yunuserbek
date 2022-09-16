@@ -14,28 +14,6 @@
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-A4373A.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img
-      src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg"
-      alt="kotlin"
-      width="40"
-      height="40"
-    /> </a
-  >
-</p>
-    <img
-      src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
-      alt="java"
-      width="40"
-      height="40"
-    /> </a
-  >
-<a href="https://developer.android.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303175/android-logo.svg" alt="linux" width="40" height="40"/> </a>
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yunus-emre-erbek/" target="blank"
