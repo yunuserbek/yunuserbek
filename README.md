@@ -41,6 +41,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yunus-emre-erbek/" target="blank"
+  <a href="https://www.hackerrank.com/yunus_erbek" target="blank"
     ><img
       align="center"
       src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
