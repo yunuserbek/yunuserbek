@@ -53,9 +53,9 @@
     ><img
       align="center"
       src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
-      alt="yunus-emre-erbek"
-      height="35"
-      width="35"
+      alt="java"
+      width="40"
+      height="40"
   /></a>
 </p>
 
